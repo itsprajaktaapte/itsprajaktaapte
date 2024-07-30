@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with Advanced JavaScript, React JS , Next JS
 - 📫 How to reach me - itsprajaktaapte@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't get bored with code easily :)
+- ⚡ Fun fact: I don't get easily bored with code  :)
 
 <!---
 itsprajaktaapte/itsprajaktaapte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
